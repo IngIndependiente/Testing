@@ -1,0 +1,2555 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 JAN 2017 14:13
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**templateICI.tex
+(./templateICI.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen111
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks18
+\float@box=\box26
+\@float@everytoks=\toks19
+\@floatcapt=\box27
+)
+(./templateICI.sty
+\signaturespace=\skip43
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count92
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen114
+\epsfysize=\dimen115
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/09/25 3.9l The Babel package
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2014/04/24 v5.0n Spanish support from the babel system
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/09/25 3.9l Babel common definitions
+\babel@savecnt=\count93
+\U@D=\dimen116
+)
+\es@quottoks=\toks20
+\es@quotdepth=\count94
+Package babel Info: Making " an active character on input line 516.
+Package babel Info: Making . an active character on input line 617.
+Package babel Info: Making < an active character on input line 662.
+Package babel Info: Making > an active character on input line 662.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip44
+\LTright=\skip45
+\LTpre=\skip46
+\LTpost=\skip47
+\LTchunksize=\count95
+\LTcapwidth=\dimen117
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count96
+\LT@rows=\count97
+\c@LT@tables=\count98
+\c@LT@chunks=\count99
+\LT@p@ftn=\toks21
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen118
+\extrarowheight=\dimen119
+\NC@list=\toks22
+\extratabsurround=\skip48
+\backup@length=\skip49
+)
+\TX@col@width=\dimen120
+\TX@old@table=\dimen121
+\TX@old@col=\dimen122
+\TX@target=\dimen123
+\TX@delta=\dimen124
+\TX@cols=\count100
+\TX@ftn=\toks23
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen125
+\captionmargin@=\dimen126
+\captionwidth=\dimen127
+\caption@tempdima=\dimen128
+\caption@indent=\dimen129
+\caption@parindent=\dimen130
+\caption@hangindent=\dimen131
+)
+\c@ContinuedFloat=\count101
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count102
+\rotFPtop=\skip50
+\rotFPbot=\skip51
+\rot@float@box=\box32
+\rot@mess@toks=\toks24
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 142.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+\everycr=\toks25
+\minrowclearance=\skip52
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+\c@teorema=\count103
+\c@lema=\count104
+\c@definicion=\count105
+
+(./templateICI.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ (./c1_intro.aux
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:dcu' multiply defined.
+
+
+LaTeX Warning: Label `fig:dcu' multiply defined.
+
+
+LaTeX Warning: Label `fig:dcu' multiply defined.
+
+
+LaTeX Warning: Label `fig:dcu' multiply defined.
+
+
+LaTeX Warning: Label `fig:dcu' multiply defined.
+
+
+LaTeX Warning: Label `fig:dcu' multiply defined.
+
+
+LaTeX Warning: Label `fig:dcu' multiply defined.
+
+
+LaTeX Warning: Label `fig:dcu' multiply defined.
+
+
+LaTeX Warning: Label `fig:dcu' multiply defined.
+
+
+LaTeX Warning: Label `fig:dcu' multiply defined.
+
+
+LaTeX Warning: Label `fig:dcu' multiply defined.
+
+
+LaTeX Warning: Label `fig:dcu' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `tabla:sencilla' multiply defined.
+
+
+LaTeX Warning: Label `tabla:sencilla' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `tabla:sencilla' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `tabla:autores' multiply defined.
+
+
+LaTeX Warning: Label `tabla:autores' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `tabla:autores' multiply defined.
+
+
+LaTeX Warning: Label `tabla:autores' multiply defined.
+
+
+LaTeX Warning: Label `tabla:autores' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `tabla:autores' multiply defined.
+
+
+LaTeX Warning: Label `tabla:autores' multiply defined.
+
+
+LaTeX Warning: Label `tabla:autores' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `tabla:autores' multiply defined.
+
+
+LaTeX Warning: Label `tabla:autores' multiply defined.
+
+
+LaTeX Warning: Label `tabla:autores' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `tabla:autores' multiply defined.
+
+
+LaTeX Warning: Label `tabla:autores' multiply defined.
+
+
+LaTeX Warning: Label `tabla:autores' multiply defined.
+
+
+LaTeX Warning: Label `tabla:autores' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `tabla:autores' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `tabla:autores' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `tabla:autores' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+
+LaTeX Warning: Label `fig:MarcoTeorico' multiply defined.
+
+) (./c2_marco.aux) (./c3_estado_arte.aux) (./c4_prob_solucion.aux)
+(./c5_analisis.aux))
+\openout1 = `templateICI.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 43.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 43.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 457.80486pt, 71.13188pt)
+* v-part:(T,H,B)=(85.35826pt, 638.47984pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=433.62pt
+* \textheight=585.38744pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=13.08827pt
+* \topmargin=0.0pt
+* \headheight=12.0pt
+* \headsep=36.135pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen132
+\scratchbox=\box33
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen133
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks27
+)
+LaTeX Info: Redefining \. on input line 43.
+LaTeX Info: Redefining \% on input line 43.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package epstopdf Info: Source file: <logoUV.eps>
+(epstopdf)                    date: 2016-04-28 18:02:56
+(epstopdf)                    size: 342126 bytes
+(epstopdf)             Output file: <logoUV-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-04-28 18:05:08
+(epstopdf)                    size: 23015 bytes
+(epstopdf)             Command: <repstopdf --outfile=logoUV-eps-converted-to.pd
+f logoUV.eps>
+(epstopdf)             \includegraphics on input line 53.
+Package epstopdf Info: Output file is already uptodate.
+ <logoUV-eps-converted-to.pdf, id=1, 124.465pt x 195.73125pt>
+File: logoUV-eps-converted-to.pdf Graphic file (type pdf)
+
+<use logoUV-eps-converted-to.pdf>
+Package pdftex.def Info: logoUV-eps-converted-to.pdf used on input line 53.
+(pdftex.def)             Requested size: 56.9055pt x 89.4909pt.
+ [1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logoU
+V-eps-converted-to.pdf>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 53.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 53.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 53.
+ [2]
+(./templateICI.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [3
+
+
+] [4])
+\tf@toc=\write3
+\openout3 = `templateICI.toc'.
+
+ [5] (./templateICI.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (3.00272pt too wide) detected at line 22
+\OT1/cmr/m/n/12 10.10. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 23
+\OT1/cmr/m/n/12 10.11. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 24
+\OT1/cmr/m/n/12 10.12. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 25
+\OT1/cmr/m/n/12 10.13. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 26
+\OT1/cmr/m/n/12 10.14. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 27
+\OT1/cmr/m/n/12 10.15. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 28
+\OT1/cmr/m/n/12 10.16. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 29
+\OT1/cmr/m/n/12 10.17. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 30
+\OT1/cmr/m/n/12 10.18. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 31
+\OT1/cmr/m/n/12 10.19. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 32
+\OT1/cmr/m/n/12 10.20. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 33
+\OT1/cmr/m/n/12 10.21. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 34
+\OT1/cmr/m/n/12 10.22. 
+ []
+
+)
+\tf@lot=\write4
+\openout4 = `templateICI.lot'.
+
+ [6
+
+] (./templateICI.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [7
+
+]
+Overfull \hbox (3.00272pt too wide) detected at line 63
+\OT1/cmr/m/n/12 10.10. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 64
+\OT1/cmr/m/n/12 10.11. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 65
+\OT1/cmr/m/n/12 10.12. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 66
+\OT1/cmr/m/n/12 10.13. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 67
+\OT1/cmr/m/n/12 10.14. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 68
+\OT1/cmr/m/n/12 10.15. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 69
+\OT1/cmr/m/n/12 10.16. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 70
+\OT1/cmr/m/n/12 10.17. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 71
+\OT1/cmr/m/n/12 10.18. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 72
+\OT1/cmr/m/n/12 10.19. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 73
+\OT1/cmr/m/n/12 10.20. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 74
+\OT1/cmr/m/n/12 10.21. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 75
+\OT1/cmr/m/n/12 10.22. 
+ []
+
+
+Overfull \hbox (3.00272pt too wide) detected at line 76
+\OT1/cmr/m/n/12 10.23. 
+ []
+
+[8])
+\tf@lof=\write5
+\openout5 = `templateICI.lof'.
+
+ [9]
+\openout2 = `c1_intro.aux'.
+
+ (./c1_intro.tex
+Cap\'{\i }tulo 1.
+[1
+
+
+
+]
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+ [2]
+Cap\'{\i }tulo 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+[3
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+LaTeX Info: Redefining \. on input line 46.
+LaTeX Info: Redefining \% on input line 46.
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+<img/MarcoTeorico.png, id=55, 443.7378pt x 360.3864pt>
+File: img/MarcoTeorico.png Graphic file (type png)
+
+<use img/MarcoTeorico.png>
+Package pdftex.def Info: img/MarcoTeorico.png used on input line 56.
+(pdftex.def)             Requested size: 173.44534pt x 140.86357pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+LaTeX Info: Redefining \. on input line 64.
+LaTeX Info: Redefining \% on input line 64.
+[5 <./img/MarcoTeorico.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+<img/VersionManual.png, id=61, 285.2256pt x 225.9642pt>
+File: img/VersionManual.png Graphic file (type png)
+
+<use img/VersionManual.png>
+Package pdftex.def Info: img/VersionManual.png used on input line 78.
+(pdftex.def)             Requested size: 173.44534pt x 137.4104pt.
+LaTeX Info: Redefining \. on input line 87.
+LaTeX Info: Redefining \% on input line 87.
+ [6 <./img/VersionManual.png>]
+<img/Centralizado.png, id=66, 352.6776pt x 425.9112pt>
+File: img/Centralizado.png Graphic file (type png)
+
+<use img/Centralizado.png>
+Package pdftex.def Info: img/Centralizado.png used on input line 95.
+(pdftex.def)             Requested size: 130.08731pt x 157.09724pt.
+LaTeX Info: Redefining \. on input line 111.
+LaTeX Info: Redefining \% on input line 111.
+ [7 <./img/Centralizado.png>]
+<img/Distribuido.png, id=71, 339.1872pt x 433.62pt>
+File: img/Distribuido.png Graphic file (type png)
+ <use img/Distribuido.png>
+Package pdftex.def Info: img/Distribuido.png used on input line 115.
+(pdftex.def)             Requested size: 130.08731pt x 166.30573pt.
+LaTeX Info: Redefining \. on input line 132.
+LaTeX Info: Redefining \% on input line 132.
+
+[8 <./img/Distribuido.png>]
+Cap\'{\i }tulo 3.
+<img/arte.png, id=76, 443.7378pt x 399.4122pt>
+File: img/arte.png Graphic file (type png)
+ <use img/arte.png>
+Package pdftex.def Info: img/arte.png used on input line 146.
+(pdftex.def)             Requested size: 241.84842pt x 217.69057pt.
+ [9
+
+]
+LaTeX Info: Redefining \. on input line 160.
+LaTeX Info: Redefining \% on input line 160.
+ [10 <./img/arte.png>]
+LaTeX Info: Redefining \. on input line 166.
+LaTeX Info: Redefining \% on input line 166.
+ [11]
+Cap\'{\i }tulo 4.
+<img/Situacionactual.png, id=88, 316.5426pt x 415.3116pt>
+File: img/Situacionactual.png Graphic file (type png)
+
+<use img/Situacionactual.png>
+Package pdftex.def Info: img/Situacionactual.png used on input line 177.
+(pdftex.def)             Requested size: 130.08731pt x 170.67809pt.
+ [12
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 183--186
+
+ []
+
+<img/Solucion.png, id=92, 443.7378pt x 457.2282pt>
+File: img/Solucion.png Graphic file (type png)
+ <use img/Solucion.png>
+Package pdftex.def Info: img/Solucion.png used on input line 193.
+(pdftex.def)             Requested size: 108.405pt x 111.69746pt.
+LaTeX Info: Redefining \. on input line 197.
+LaTeX Info: Redefining \% on input line 197.
+
+[13 <./img/Situacionactual.png>]
+LaTeX Info: Redefining \. on input line 222.
+LaTeX Info: Redefining \% on input line 222.
+ [14 <./img/Solucion.png>]
+<img/Metodologia.png, id=101, 443.7378pt x 328.1058pt>
+File: img/Metodologia.png Graphic file (type png)
+
+<use img/Metodologia.png>
+Package pdftex.def Info: img/Metodologia.png used on input line 240.
+(pdftex.def)             Requested size: 143.09538pt x 105.80704pt.
+LaTeX Info: Redefining \. on input line 245.
+LaTeX Info: Redefining \% on input line 245.
+ [15 <./img/Metodologia.png>]
+Cap\'{\i }tulo 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
+
+ []
+
+[16
+
+] <img/DCU.png, id=110, 443.7378pt x 462.0462pt>
+File: img/DCU.png Graphic file (type png)
+ <use img/DCU.png>
+Package pdftex.def Info: img/DCU.png used on input line 275.
+(pdftex.def)             Requested size: 199.16928pt x 207.38304pt.
+LaTeX Info: Redefining \. on input line 280.
+LaTeX Info: Redefining \% on input line 280.
+ [17 <./img/DCU.png>]
+Cap\'{\i }tulo 6.
+<img/altonivel2.png, id=115, 443.7378pt x 561.7788pt>
+File: img/altonivel2.png Graphic file (type png)
+ <use img/altonivel2.png>
+Package pdftex.def Info: img/altonivel2.png used on input line 298.
+(pdftex.def)             Requested size: 170.71652pt x 216.12692pt.
+
+[18
+
+] <img/fisico.png, id=119, 271.2534pt x 238.491pt>
+File: img/fisico.png Graphic file (type png)
+ <use img/fisico.png>
+Package pdftex.def Info: img/fisico.png used on input line 318.
+(pdftex.def)             Requested size: 85.35826pt x 75.04863pt.
+LaTeX Info: Redefining \. on input line 329.
+LaTeX Info: Redefining \% on input line 329.
+
+[19 <./img/altonivel2.png> <./img/fisico.png>]
+<img/virtual.png, id=125, 443.7378pt x 431.211pt>
+File: img/virtual.png Graphic file (type png)
+ <use img/virtual.png>
+Package pdftex.def Info: img/virtual.png used on input line 332.
+(pdftex.def)             Requested size: 170.71652pt x 165.89502pt.
+
+<img/virtual2.png, id=126, 370.5042pt x 328.1058pt>
+File: img/virtual2.png Graphic file (type png)
+ <use img/virtual2.png>
+Package pdftex.def Info: img/virtual2.png used on input line 341.
+(pdftex.def)             Requested size: 113.81102pt x 100.78554pt.
+LaTeX Info: Redefining \. on input line 352.
+LaTeX Info: Redefining \% on input line 352.
+
+[20 <./img/virtual.png> <./img/virtual2.png>]
+<img/flow.png, id=132, 494.8086pt x 104.5506pt>
+File: img/flow.png Graphic file (type png)
+ <use img/flow.png>
+Package pdftex.def Info: img/flow.png used on input line 365.
+(pdftex.def)             Requested size: 284.52756pt x 60.12091pt.
+LaTeX Info: Redefining \. on input line 375.
+LaTeX Info: Redefining \% on input line 375.
+ [21 <./img/flow.png>] <img/flujo1.png, id=137, 443.7378pt x 539.616pt>
+File: img/flujo1.png Graphic file (type png)
+
+<use img/flujo1.png>
+Package pdftex.def Info: img/flujo1.png used on input line 403.
+(pdftex.def)             Requested size: 85.35826pt x 103.79611pt.
+LaTeX Info: Redefining \. on input line 413.
+LaTeX Info: Redefining \% on input line 413.
+ [22 <./img/flujo1.png>]
+<img/flujo2.png, id=143, 273.1806pt x 381.5856pt>
+File: img/flujo2.png Graphic file (type png)
+ <use img/flujo2.png>
+Package pdftex.def Info: img/flujo2.png used on input line 441.
+(pdftex.def)             Requested size: 56.9055pt x 79.48322pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
+
+ []
+
+LaTeX Info: Redefining \. on input line 449.
+LaTeX Info: Redefining \% on input line 449.
+[23 <./img/flujo2.png>] <img/flujo3.png, id=148, 443.7378pt x 325.215pt>
+File: img/flujo3.png Graphic file (type png)
+
+<use img/flujo3.png>
+Package pdftex.def Info: img/flujo3.png used on input line 478.
+(pdftex.def)             Requested size: 108.12054pt x 79.2392pt.
+LaTeX Info: Redefining \. on input line 482.
+LaTeX Info: Redefining \% on input line 482.
+ [24] <img/flujo4.png, id=152, 178.7478pt x 577.1964pt>
+File: img/flujo4.png Graphic file (type png)
+
+<use img/flujo4.png>
+Package pdftex.def Info: img/flujo4.png used on input line 515.
+(pdftex.def)             Requested size: 42.67912pt x 137.81656pt.
+LaTeX Info: Redefining \. on input line 519.
+LaTeX Info: Redefining \% on input line 519.
+ [25 <./img/flujo3.png>]
+LaTeX Info: Redefining \. on input line 539.
+LaTeX Info: Redefining \% on input line 539.
+ [26 <./img/flujo4.png>]
+<img/flujo5.png, id=161, 443.7378pt x 445.665pt>
+File: img/flujo5.png Graphic file (type png)
+ <use img/flujo5.png>
+Package pdftex.def Info: img/flujo5.png used on input line 542.
+(pdftex.def)             Requested size: 128.0374pt x 128.5935pt.
+LaTeX Info: Redefining \. on input line 558.
+LaTeX Info: Redefining \% on input line 558.
+ [27 <./img/flujo5.png>] <img/roles.png, id=166, 410.0118pt x 525.162pt>
+File: img/roles.png Graphic file (type png)
+
+<use img/roles.png>
+Package pdftex.def Info: img/roles.png used on input line 567.
+(pdftex.def)             Requested size: 156.49014pt x 200.43709pt.
+LaTeX Info: Redefining \. on input line 572.
+LaTeX Info: Redefining \% on input line 572.
+ [28 <./img/roles.png>]
+Cap\'{\i }tulo 7.
+<img/gitflow.png, id=172, 369.7815pt x 209.583pt>
+File: img/gitflow.png Graphic file (type png)
+ <use img/gitflow.png>
+Package pdftex.def Info: img/gitflow.png used on input line 588.
+(pdftex.def)             Requested size: 130.08731pt x 73.7325pt.
+
+[29
+
+ <./img/gitflow.png>]
+LaTeX Info: Redefining \. on input line 620.
+LaTeX Info: Redefining \% on input line 620.
+ [30] <img/tree.png, id=180, 602.25pt x 254.9525pt>
+File: img/tree.png Graphic file (type png)
+
+<use img/tree.png>
+Package pdftex.def Info: img/tree.png used on input line 627.
+(pdftex.def)             Requested size: 173.44534pt x 73.4247pt.
+ <img/final.png, id=181, 443.7378pt x 394.1124pt>
+File: img/final.png Graphic file (type png)
+
+<use img/final.png>
+Package pdftex.def Info: img/final.png used on input line 641.
+(pdftex.def)             Requested size: 130.08731pt x 115.53448pt.
+LaTeX Info: Redefining \. on input line 650.
+LaTeX Info: Redefining \% on input line 650.
+ [31 <./img/tree.png (PNG copy)> <./img/final.png>]
+LaTeX Info: Redefining \. on input line 675.
+LaTeX Info: Redefining \% on input line 675.
+ [32]
+Cap\'{\i }tulo 8.
+[33
+
+]
+LaTeX Info: Redefining \. on input line 720.
+LaTeX Info: Redefining \% on input line 720.
+ [34] <img/modelodered.png, id=196, 443.7378pt x 242.3454pt>
+File: img/modelodered.png Graphic file (type png)
+
+<use img/modelodered.png>
+Package pdftex.def Info: img/modelodered.png used on input line 725.
+(pdftex.def)             Requested size: 260.17464pt x 142.09874pt.
+LaTeX Info: Redefining \. on input line 759.
+LaTeX Info: Redefining \% on input line 759.
+ [35 <./img/modelodered.png>]
+LaTeX Info: Redefining \. on input line 796.
+LaTeX Info: Redefining \% on input line 796.
+ [36]
+LaTeX Info: Redefining \. on input line 822.
+LaTeX Info: Redefining \% on input line 822.
+ [37]
+Cap\'{\i }tulo 9.
+
+Underfull \hbox (badness 10000) in paragraph at lines 826--827
+
+ []
+
+<img/proxmox1.png, id=207, 279.9258pt x 130.086pt>
+File: img/proxmox1.png Graphic file (type png)
+ <use img/proxmox1.png>
+Package pdftex.def Info: img/proxmox1.png used on input line 830.
+(pdftex.def)             Requested size: 130.08731pt x 60.45361pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
+
+ []
+
+<img/proxmox2.png, id=208, 469.2732pt x 144.54pt>
+File: img/proxmox2.png Graphic file (type png)
+ <use img/proxmox2.png>
+Package pdftex.def Info: img/proxmox2.png used on input line 840.
+(pdftex.def)             Requested size: 260.17464pt x 80.13902pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 845--846
+
+ []
+
+<img/proxmox3.png, id=209, 280.4076pt x 127.1952pt>
+File: img/proxmox3.png Graphic file (type png)
+ <use img/proxmox3.png>
+Package pdftex.def Info: img/proxmox3.png used on input line 850.
+(pdftex.def)             Requested size: 130.08731pt x 59.00735pt.
+
+[38
+
+ <./img/proxmox1.png> <./img/proxmox2.png>]
+<img/gitlab1.png, id=215, 443.7378pt x 153.2124pt>
+File: img/gitlab1.png Graphic file (type png)
+ <use img/gitlab1.png>
+Package pdftex.def Info: img/gitlab1.png used on input line 862.
+(pdftex.def)             Requested size: 216.81pt x 74.85963pt.
+
+<img/gitlab2.png, id=216, 397.485pt x 209.583pt>
+File: img/gitlab2.png Graphic file (type png)
+ <use img/gitlab2.png>
+Package pdftex.def Info: img/gitlab2.png used on input line 871.
+(pdftex.def)             Requested size: 173.44534pt x 91.45567pt.
+
+<img/gitlab3.png, id=217, 443.7378pt x 292.4526pt>
+File: img/gitlab3.png Graphic file (type png)
+ <use img/gitlab3.png>
+Package pdftex.def Info: img/gitlab3.png used on input line 881.
+(pdftex.def)             Requested size: 303.53267pt x 200.05215pt.
+LaTeX Info: Redefining \. on input line 885.
+LaTeX Info: Redefining \% on input line 885.
+
+[39 <./img/proxmox3.png> <./img/gitlab1.png> <./img/gitlab2.png>]
+<img/gitlab4.png, id=225, 370.5042pt x 250.536pt>
+File: img/gitlab4.png Graphic file (type png)
+ <use img/gitlab4.png>
+Package pdftex.def Info: img/gitlab4.png used on input line 890.
+(pdftex.def)             Requested size: 303.53267pt x 205.2497pt.
+
+<img/gitlab5.png, id=226, 443.7378pt x 222.1098pt>
+File: img/gitlab5.png Graphic file (type png)
+ <use img/gitlab5.png>
+Package pdftex.def Info: img/gitlab5.png used on input line 899.
+(pdftex.def)             Requested size: 498.66034pt x 249.60855pt.
+
+Overfull \hbox (65.04034pt too wide) in paragraph at lines 899--900
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 903.
+LaTeX Info: Redefining \% on input line 903.
+[40 <./img/gitlab3.png> <./img/gitlab4.png>]
+<img/jenkins1.png, id=233, 263.0628pt x 108.8868pt>
+File: img/jenkins1.png Graphic file (type png)
+ <use img/jenkins1.png>
+Package pdftex.def Info: img/jenkins1.png used on input line 910.
+(pdftex.def)             Requested size: 130.08731pt x 53.84843pt.
+
+<img/jenkins2.png, id=234, 470.2368pt x 172.0026pt>
+File: img/jenkins2.png Graphic file (type png)
+ <use img/jenkins2.png>
+Package pdftex.def Info: img/jenkins2.png used on input line 919.
+(pdftex.def)             Requested size: 346.89731pt x 126.89148pt.
+LaTeX Info: Redefining \. on input line 923.
+LaTeX Info: Redefining \% on input line 923.
+
+[41 <./img/gitlab5.png> <./img/jenkins1.png>]
+<img/jenkins3.png, id=240, 443.7378pt x 292.4526pt>
+File: img/jenkins3.png Graphic file (type png)
+ <use img/jenkins3.png>
+Package pdftex.def Info: img/jenkins3.png used on input line 928.
+(pdftex.def)             Requested size: 390.25534pt x 257.21182pt.
+
+<img/jenkins4.png, id=241, 443.7378pt x 139.2402pt>
+File: img/jenkins4.png Graphic file (type png)
+ <use img/jenkins4.png>
+Package pdftex.def Info: img/jenkins4.png used on input line 936.
+(pdftex.def)             Requested size: 303.53267pt x 95.24722pt.
+LaTeX Info: Redefining \. on input line 940.
+LaTeX Info: Redefining \% on input line 940.
+
+[42 <./img/jenkins2.png> <./img/jenkins3.png>]
+<img/jenkins5.png, id=247, 443.7378pt x 227.8914pt>
+File: img/jenkins5.png Graphic file (type png)
+ <use img/jenkins5.png>
+Package pdftex.def Info: img/jenkins5.png used on input line 947.
+(pdftex.def)             Requested size: 216.81pt x 111.34784pt.
+
+<img/jenkins6.png, id=248, 443.7378pt x 146.949pt>
+File: img/jenkins6.png Graphic file (type png)
+ <use img/jenkins6.png>
+Package pdftex.def Info: img/jenkins6.png used on input line 956.
+(pdftex.def)             Requested size: 260.17464pt x 86.16325pt.
+LaTeX Info: Redefining \. on input line 967.
+LaTeX Info: Redefining \% on input line 967.
+
+[43 <./img/jenkins4.png> <./img/jenkins5.png> <./img/jenkins6.png>]
+<img/flujo.png, id=255, 443.7378pt x 359.4228pt>
+File: img/flujo.png Graphic file (type png)
+ <use img/flujo.png>
+Package pdftex.def Info: img/flujo.png used on input line 971.
+(pdftex.def)             Requested size: 216.81pt x 175.61415pt.
+
+<img/proxmoxnav.png, id=256, 443.7378pt x 210.0648pt>
+File: img/proxmoxnav.png Graphic file (type png)
+ <use img/proxmoxnav.png>
+Package pdftex.def Info: img/proxmoxnav.png used on input line 985.
+(pdftex.def)             Requested size: 173.44534pt x 82.10764pt.
+
+<img/gitlabnav.png, id=257, 443.7378pt x 153.2124pt>
+File: img/gitlabnav.png Graphic file (type png)
+ <use img/gitlabnav.png>
+Package pdftex.def Info: img/gitlabnav.png used on input line 994.
+(pdftex.def)             Requested size: 173.44534pt x 59.88583pt.
+LaTeX Info: Redefining \. on input line 998.
+LaTeX Info: Redefining \% on input line 998.
+
+[44 <./img/flujo.png> <./img/proxmoxnav.png>]
+<img/jenkinsnav.png, id=263, 443.7378pt x 227.4096pt>
+File: img/jenkinsnav.png Graphic file (type png)
+ <use img/jenkinsnav.png>
+Package pdftex.def Info: img/jenkinsnav.png used on input line 1003.
+(pdftex.def)             Requested size: 173.44534pt x 88.88718pt.
+LaTeX Info: Redefining \. on input line 1008.
+LaTeX Info: Redefining \% on input line 1008.
+
+[45 <./img/gitlabnav.png> <./img/jenkinsnav.png>]
+Cap\'{\i }tulo 10.
+[46
+
+]
+LaTeX Info: Redefining \. on input line 1063.
+LaTeX Info: Redefining \% on input line 1063.
+ [47] <img/cajanegra.png, id=276, 316.5426pt x 107.9232pt>
+File: img/cajanegra.png Graphic file (type png)
+
+<use img/cajanegra.png>
+Package pdftex.def Info: img/cajanegra.png used on input line 1070.
+(pdftex.def)             Requested size: 303.53267pt x 103.4898pt.
+LaTeX Info: Redefining \. on input line 1093.
+LaTeX Info: Redefining \% on input line 1093.
+ [48 <./img/cajanegra.png>]
+<img/p01.png, id=281, 370.986pt x 167.6664pt>
+File: img/p01.png Graphic file (type png)
+ <use img/p01.png>
+Package pdftex.def Info: img/p01.png used on input line 1103.
+(pdftex.def)             Requested size: 216.81pt x 97.98593pt.
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1114--1114
+ []|\OT1/cmr/m/n/12 01.1| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1114--1114
+[]|\OT1/cmr/m/n/12 Ingreso de cam-pos
+ []
+
+
+Overfull \hbox (0.8114pt too wide) in paragraph at lines 1114--1114
+[]|\OT1/cmr/m/n/12 Usuario:'almunoiciuv',
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1114--1114
+\OT1/cmr/m/n/12 Pass-word: alum-noi-
+ []
+
+
+Overfull \hbox (67.39769pt too wide) in paragraph at lines 1110--1117
+ [][] 
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1127--1127
+ []|\OT1/cmr/m/n/12 01.2| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1127--1127
+[]|\OT1/cmr/m/n/12 Ingreso del cam-po
+ []
+
+
+Overfull \hbox (0.8114pt too wide) in paragraph at lines 1127--1127
+[]|\OT1/cmr/m/n/12 Usuario:'almunouvici',
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1127--1127
+\OT1/cmr/m/n/12 Pass-
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1129--1129
+ []|\OT1/cmr/m/n/12 01.2| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+[]|\OT1/cmr/m/n/12 Ingreso del cam-po
+ []
+
+
+Overfull \hbox (0.8114pt too wide) in paragraph at lines 1129--1129
+[]|\OT1/cmr/m/n/12 Usuario:'almunoiciuv',
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+\OT1/cmr/m/n/12 Pass-
+ []
+
+
+Overfull \hbox (67.39769pt too wide) in paragraph at lines 1123--1132
+ [][] 
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1142--1142
+ []|\OT1/cmr/m/n/12 01.3| 
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1144--1144
+ []|\OT1/cmr/m/n/12 01.3| 
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1146--1146
+ []|\OT1/cmr/m/n/12 01.3| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1146--1146
+[]|\OT1/cmr/m/n/12 Campo Usua-rio y
+ []
+
+
+Overfull \hbox (67.39769pt too wide) in paragraph at lines 1138--1149
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 1152.
+LaTeX Info: Redefining \% on input line 1152.
+[49 <./img/p01.png>] <img/p02.png, id=286, 370.986pt x 165.7392pt>
+File: img/p02.png Graphic file (type png)
+
+<use img/p02.png>
+Package pdftex.def Info: img/p02.png used on input line 1158.
+(pdftex.def)             Requested size: 240.65591pt x 107.51169pt.
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1169--1169
+ []|\OT1/cmr/m/n/12 02.1| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1169--1169
+[]|\OT1/cmr/m/n/12 Ingreso de cam-pos
+ []
+
+
+Overfull \hbox (0.8114pt too wide) in paragraph at lines 1169--1169
+[]|\OT1/cmr/m/n/12 Usuario:'almunoiciuv',
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1169--1169
+\OT1/cmr/m/n/12 Pass-word: alum-noi-
+ []
+
+
+Overfull \hbox (67.39769pt too wide) in paragraph at lines 1165--1172
+ [][] 
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1182--1182
+ []|\OT1/cmr/m/n/12 02.2| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1182--1182
+[]|\OT1/cmr/m/n/12 Ingreso del cam-po
+ []
+
+
+Overfull \hbox (0.8114pt too wide) in paragraph at lines 1182--1182
+[]|\OT1/cmr/m/n/12 Usuario:'almunouvici',
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1182--1182
+\OT1/cmr/m/n/12 Pass-
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1184--1184
+ []|\OT1/cmr/m/n/12 02.2| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1184--1184
+[]|\OT1/cmr/m/n/12 Ingreso del cam-po
+ []
+
+
+Overfull \hbox (0.8114pt too wide) in paragraph at lines 1184--1184
+[]|\OT1/cmr/m/n/12 Usuario:'almunoiciuv',
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1184--1184
+\OT1/cmr/m/n/12 Pass-
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1185--1185
+ []|\OT1/cmr/m/n/12 02.2| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1185--1185
+[]|\OT1/cmr/m/n/12 Usuario:'almunouv',
+ []
+
+
+Overfull \hbox (67.39769pt too wide) in paragraph at lines 1178--1188
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 1191.
+LaTeX Info: Redefining \% on input line 1191.
+[50 <./img/p02.png>]
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1198--1198
+ []|\OT1/cmr/m/n/12 02.3| 
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1200--1200
+ []|\OT1/cmr/m/n/12 02.3| 
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1202--1202
+ []|\OT1/cmr/m/n/12 02.3| 
+ []
+
+
+Overfull \hbox (67.39769pt too wide) in paragraph at lines 1194--1205
+ [][] 
+ []
+
+<img/prox.png, id=291, 443.7378pt x 204.2832pt>
+File: img/prox.png Graphic file (type png)
+ <use img/prox.png>
+Package pdftex.def Info: img/prox.png used on input line 1214.
+(pdftex.def)             Requested size: 238.49231pt x 109.79382pt.
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1225--1225
+ []|\OT1/cmr/m/n/12 03.1| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1225--1225
+[]|\OT1/cmr/m/n/12 Ingreso de cam-pos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1225--1225
+[]|\OT1/cmr/m/n/12 Usuario:'root', Pass-
+ []
+
+
+Overfull \hbox (67.39769pt too wide) in paragraph at lines 1221--1228
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 1231.
+LaTeX Info: Redefining \% on input line 1231.
+[51 <./img/prox.png>]
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1238--1238
+ []|\OT1/cmr/m/n/12 03.2| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1238--1238
+[]|\OT1/cmr/m/n/12 Ingreso del cam-po
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1238--1238
+[]|\OT1/cmr/m/n/12 Usuario:'rot', Pass-
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1240--1240
+ []|\OT1/cmr/m/n/12 03.2| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1240--1240
+[]|\OT1/cmr/m/n/12 Ingreso del cam-po
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1240--1240
+[]|\OT1/cmr/m/n/12 Usuario:'root', Pass-
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1241--1241
+ []|\OT1/cmr/m/n/12 03.2| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1241
+[]|\OT1/cmr/m/n/12 Usuario:'root', Pass-
+ []
+
+
+Overfull \hbox (67.39769pt too wide) in paragraph at lines 1234--1244
+ [][] 
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1254--1254
+ []|\OT1/cmr/m/n/12 03.3| 
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1256--1256
+ []|\OT1/cmr/m/n/12 03.3| 
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1258--1258
+ []|\OT1/cmr/m/n/12 03.3| 
+ []
+
+
+Overfull \hbox (67.39769pt too wide) in paragraph at lines 1250--1261
+ [][] 
+ []
+
+<img/p03.png, id=296, 379.6584pt x 167.6664pt>
+File: img/p03.png Graphic file (type png)
+ <use img/p03.png>
+Package pdftex.def Info: img/p03.png used on input line 1271.
+(pdftex.def)             Requested size: 238.49231pt x 105.32336pt.
+LaTeX Info: Redefining \. on input line 1275.
+LaTeX Info: Redefining \% on input line 1275.
+ [52]
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1282--1282
+ []|\OT1/cmr/m/n/12 04.1| 
+ []
+
+
+Overfull \hbox (67.39769pt too wide) in paragraph at lines 1278--1285
+ [][] 
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1295--1295
+ []|\OT1/cmr/m/n/12 04.2| 
+ []
+
+
+Underfull \hbox (badness 3826) in paragraph at lines 1295--1295
+[]|\OT1/cmr/m/n/12 Nombre: Pro-yec-toIn-
+ []
+
+
+Overfull \hbox (67.39769pt too wide) in paragraph at lines 1291--1298
+ [][] 
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1308--1308
+ []|\OT1/cmr/m/n/12 04.3| 
+ []
+
+
+Overfull \hbox (67.39769pt too wide) in paragraph at lines 1304--1311
+ [][] 
+ []
+
+<img/p04.png, id=301, 388.8126pt x 238.9728pt>
+File: img/p04.png Graphic file (type png)
+ <use img/p04.png>
+Package pdftex.def Info: img/p04.png used on input line 1319.
+(pdftex.def)             Requested size: 238.49231pt x 146.58633pt.
+LaTeX Info: Redefining \. on input line 1323.
+LaTeX Info: Redefining \% on input line 1323.
+ [53 <./img/p03.png>]
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1330--1330
+ []|\OT1/cmr/m/n/12 05.1| 
+ []
+
+
+Overfull \hbox (72.06345pt too wide) in paragraph at lines 1330--1330
+[]|\OT1/cmr/m/n/12 http://RepoCentral.uvici/root/php-
+ []
+
+
+Overfull \hbox (67.39769pt too wide) in paragraph at lines 1326--1333
+ [][] 
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1342--1342
+ []|\OT1/cmr/m/n/12 05.2| 
+ []
+
+
+Overfull \hbox (55.41779pt too wide) in paragraph at lines 1342--1342
+[]|\OT1/cmr/m/n/12 git@RepoCentral.uvici:root/php-
+ []
+
+
+Overfull \hbox (67.39769pt too wide) in paragraph at lines 1338--1345
+ [][] 
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1354--1354
+ []|\OT1/cmr/m/n/12 05.3| 
+ []
+
+
+Underfull \hbox (badness 5519) in paragraph at lines 1354--1354
+[]|\OT1/cmr/m/n/12 Clonar un pro-yec-to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1354--1354
+\OT1/cmr/m/n/12 Usan-do una ru-ta
+ []
+
+
+Overfull \hbox (38.9374pt too wide) in paragraph at lines 1354--1354
+[]|\OT1/cmr/m/n/12 http://10.100.6221/root/php-
+ []
+
+
+Overfull \hbox (67.39769pt too wide) in paragraph at lines 1350--1357
+ [][] 
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1367--1367
+ []|\OT1/cmr/m/n/12 05.4| 
+ []
+
+
+Underfull \hbox (badness 5519) in paragraph at lines 1367--1367
+[]|\OT1/cmr/m/n/12 Clonar un pro-yec-to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1367--1367
+\OT1/cmr/m/n/12 Usan-do una ru-ta
+ []
+
+
+Overfull \hbox (42.20125pt too wide) in paragraph at lines 1367--1367
+[]|\OT1/cmr/m/n/12 http://10.100.6.221/root/php-
+ []
+
+
+Overfull \hbox (67.39769pt too wide) in paragraph at lines 1363--1370
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 1373.
+LaTeX Info: Redefining \% on input line 1373.
+[54 <./img/p04.png>] <img/p05.png, id=310, 629.2308pt x 160.4394pt>
+File: img/p05.png Graphic file (type png)
+
+<use img/p05.png>
+Package pdftex.def Info: img/p05.png used on input line 1379.
+(pdftex.def)             Requested size: 238.49231pt x 60.81093pt.
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1390--1390
+ []|\OT1/cmr/m/n/12 06.1| 
+ []
+
+
+Overfull \hbox (67.39769pt too wide) in paragraph at lines 1386--1393
+ [][] 
+ []
+
+<img/p08.png, id=311, 397.9668pt x 135.8676pt>
+File: img/p08.png Graphic file (type png)
+ <use img/p08.png>
+Package pdftex.def Info: img/p08.png used on input line 1401.
+(pdftex.def)             Requested size: 238.49231pt x 81.42374pt.
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1412--1412
+ []|\OT1/cmr/m/n/12 06.1| 
+ []
+
+
+Overfull \hbox (55.41779pt too wide) in paragraph at lines 1412--1412
+[]|\OT1/cmr/m/n/12 git@RepoCentral.uvici:root/php-
+ []
+
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1413--1413
+ []|\OT1/cmr/m/n/12 06.1| 
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 1413--1413
+[]|\OT1/cmr/m/n/12 Comprobar la Res-
+ []
+
+
+Overfull \hbox (67.39769pt too wide) in paragraph at lines 1408--1416
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 1419.
+LaTeX Info: Redefining \% on input line 1419.
+[55 <./img/p05.png> <./img/p08.png>]
+<img/p09.png, id=317, 386.8854pt x 81.906pt>
+File: img/p09.png Graphic file (type png)
+ <use img/p09.png>
+Package pdftex.def Info: img/p09.png used on input line 1425.
+(pdftex.def)             Requested size: 238.49231pt x 50.49124pt.
+
+Overfull \hbox (6.66231pt too wide) in paragraph at lines 1436--1436
+ []|\OT1/cmr/m/n/12 06.1| 
+ []
+
+
+Overfull \hbox (67.39769pt too wide) in paragraph at lines 1432--1439
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 1457.
+LaTeX Info: Redefining \% on input line 1457.
+[56 <./img/p09.png>] <img/plan1.png, id=322, 326.6604pt x 336.2964pt>
+File: img/plan1.png Graphic file (type png)
+
+<use img/plan1.png>
+Package pdftex.def Info: img/plan1.png used on input line 1467.
+(pdftex.def)             Requested size: 121.41306pt x 124.99217pt.
+ <img/plan2.png, id=323, 330.9966pt x 347.3778pt>
+File: img/plan2.png Graphic file (type png)
+
+<use img/plan2.png>
+Package pdftex.def Info: img/plan2.png used on input line 1476.
+(pdftex.def)             Requested size: 121.41306pt x 127.41995pt.
+LaTeX Info: Redefining \. on input line 1485.
+LaTeX Info: Redefining \% on input line 1485.
+ [57 <./img/plan1.png> <./img/plan2.png>]
+<img/p1.png, id=329, 535.2798pt x 165.2574pt>
+File: img/p1.png Graphic file (type png)
+ <use img/p1.png>
+Package pdftex.def Info: img/p1.png used on input line 1492.
+(pdftex.def)             Requested size: 216.81pt x 66.93643pt.
+
+<img/jmeter1.png, id=330, 697.6464pt x 205.2468pt>
+File: img/jmeter1.png Graphic file (type png)
+ <use img/jmeter1.png>
+Package pdftex.def Info: img/jmeter1.png used on input line 1501.
+(pdftex.def)             Requested size: 216.81pt x 63.78555pt.
+
+<img/p3.png, id=331, 568.524pt x 148.3944pt>
+File: img/p3.png Graphic file (type png)
+ <use img/p3.png>
+Package pdftex.def Info: img/p3.png used on input line 1512.
+(pdftex.def)             Requested size: 216.81pt x 56.5897pt.
+
+<img/jmeter3.png, id=332, 702.9462pt x 194.1654pt>
+File: img/jmeter3.png Graphic file (type png)
+ <use img/jmeter3.png>
+Package pdftex.def Info: img/jmeter3.png used on input line 1521.
+(pdftex.def)             Requested size: 216.81pt x 59.88548pt.
+LaTeX Info: Redefining \. on input line 1524.
+LaTeX Info: Redefining \% on input line 1524.
+
+[58 <./img/p1.png> <./img/jmeter1.png> <./img/p3.png>]
+<img/p5.png, id=340, 182.6022pt x 128.1588pt>
+File: img/p5.png Graphic file (type png)
+ <use img/p5.png>
+Package pdftex.def Info: img/p5.png used on input line 1533.
+(pdftex.def)             Requested size: 65.04034pt x 45.64824pt.
+
+<img/jmeter5.png, id=341, 277.5168pt x 252.945pt>
+File: img/jmeter5.png Graphic file (type png)
+ <use img/jmeter5.png>
+Package pdftex.def Info: img/jmeter5.png used on input line 1543.
+(pdftex.def)             Requested size: 108.405pt x 98.8064pt.
+
+<img/p2.png, id=342, 535.2798pt x 165.2574pt>
+File: img/p2.png Graphic file (type png)
+ <use img/p2.png>
+Package pdftex.def Info: img/p2.png used on input line 1556.
+(pdftex.def)             Requested size: 216.81pt x 66.93643pt.
+LaTeX Info: Redefining \. on input line 1560.
+LaTeX Info: Redefining \% on input line 1560.
+ [59 <./img/jmeter3.png> <./img/p5.png> <./img/jmeter5.png>]
+<img/jmeter2.png, id=349, 318.4698pt x 199.4652pt>
+File: img/jmeter2.png Graphic file (type png)
+ <use img/jmeter2.png>
+Package pdftex.def Info: img/jmeter2.png used on input line 1566.
+(pdftex.def)             Requested size: 216.81pt x 135.7928pt.
+
+<img/p4.png, id=350, 182.1204pt x 127.677pt>
+File: img/p4.png Graphic file (type png)
+ <use img/p4.png>
+Package pdftex.def Info: img/p4.png used on input line 1577.
+(pdftex.def)             Requested size: 130.08731pt x 91.20264pt.
+
+<img/jmeter4.png, id=351, 498.1812pt x 231.7458pt>
+File: img/jmeter4.png Graphic file (type png)
+ <use img/jmeter4.png>
+Package pdftex.def Info: img/jmeter4.png used on input line 1587.
+(pdftex.def)             Requested size: 173.44534pt x 80.68436pt.
+LaTeX Info: Redefining \. on input line 1591.
+LaTeX Info: Redefining \% on input line 1591.
+
+[60 <./img/p2.png> <./img/jmeter2.png> <./img/p4.png>]
+<img/validacion.png, id=358, 722.7pt x 273.6624pt>
+File: img/validacion.png Graphic file (type png)
+ <use img/validacion.png>
+Package pdftex.def Info: img/validacion.png used on input line 1609.
+(pdftex.def)             Requested size: 216.81pt x 82.09933pt.
+
+<img/validacion2.png, id=359, 666.8112pt x 387.3672pt>
+File: img/validacion2.png Graphic file (type png)
+
+<use img/validacion2.png>
+Package pdftex.def Info: img/validacion2.png used on input line 1624.
+(pdftex.def)             Requested size: 173.44534pt x 100.76038pt.
+LaTeX Info: Redefining \. on input line 1628.
+LaTeX Info: Redefining \% on input line 1628.
+ [61 <./img/jmeter4.png> <./img/validacion.png>]
+LaTeX Info: Redefining \. on input line 1630.
+LaTeX Info: Redefining \% on input line 1630.
+
+[62 <./img/validacion2.png>]
+Cap\'{\i }tulo 11.
+[63
+
+]
+LaTeX Info: Redefining \. on input line 1686.
+LaTeX Info: Redefining \% on input line 1686.
+ [64]
+Cap\'{\i }tulo 12.
+[65
+
+]
+Ap\'{e}ndice A.
+<img/idioma.png, id=379, 436.029pt x 186.9384pt>
+File: img/idioma.png Graphic file (type png)
+ <use img/idioma.png>
+Package pdftex.def Info: img/idioma.png used on input line 1702.
+(pdftex.def)             Requested size: 173.44534pt x 74.36043pt.
+ [66
+
+ <./img/idioma.png>] <img/disco.png, id=384, 278.4804pt x 262.0992pt>
+File: img/disco.png Graphic file (type png)
+
+<use img/disco.png>
+Package pdftex.def Info: img/disco.png used on input line 1711.
+(pdftex.def)             Requested size: 130.08731pt x 122.43875pt.
+ <img/red.png, id=385, 423.984pt x 161.8848pt>
+File: img/red.png Graphic file (type png)
+
+<use img/red.png>
+Package pdftex.def Info: img/red.png used on input line 1720.
+(pdftex.def)             Requested size: 173.44534pt x 66.22498pt.
+
+Overfull \hbox (20.18224pt too wide) in paragraph at lines 1738--1739
+[]\OT1/cmr/m/n/12 Agregar los re-po-si-to-rios a la sour-ce list usan-do: add-a
+pt-repository ppa:ondrej/php5-
+ []
+
+LaTeX Info: Redefining \. on input line 1748.
+LaTeX Info: Redefining \% on input line 1748.
+[67 <./img/disco.png> <./img/red.png>]
+Overfull \hbox (188.07364pt too wide) in paragraph at lines 1748--1749
+[]\OT1/cmr/m/n/12 Agregar los pac-ke-tes de gitlab 8.10 al ser-vi-dor: curl -sS
+ https://packages.gitlab.com/install/repositories/gitlab/gitlab-
+ []
+
+
+Overfull \hbox (20.835pt too wide) in paragraph at lines 1756--1757
+[]\OT1/cmr/m/n/12 Agregar re-po-si-to-rios a la sour-ce-list:sh -c echo deb htt
+p://pkg.jenkins.io/debianstable
+ []
+
+
+LaTeX Warning: Citation `proxmox' on page 68 undefined on input line 1764.
+
+
+LaTeX Warning: Citation `jenkins' on page 68 undefined on input line 1774.
+
+LaTeX Info: Redefining \. on input line 1784.
+LaTeX Info: Redefining \% on input line 1784.
+[68]
+
+LaTeX Warning: Citation `gitlab' on page 69 undefined on input line 1790.
+
+File: img/flujo.png Graphic file (type png)
+<use img/flujo.png>
+Package pdftex.def Info: img/flujo.png used on input line 1805.
+(pdftex.def)             Requested size: 195.12767pt x 158.04779pt.
+)
+LaTeX Info: Redefining \. on input line 63.
+LaTeX Info: Redefining \% on input line 63.
+ [69]
+\openout2 = `c2_marco.aux'.
+
+ (./c2_marco.tex)
+\openout2 = `c3_estado_arte.aux'.
+
+ (./c3_estado_arte.tex)
+\openout2 = `c4_prob_solucion.aux'.
+
+
+(./c4_prob_solucion.tex)
+\openout2 = `c5_analisis.aux'.
+
+ (./c5_analisis.tex) (./templateICI.bbl
+! Text line contains an invalid character.
+l.4 Computer science curriculum ^^@
+                                   .
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+[]\OT1/cmr/m/n/12 Online com-mu-nity for open sour-ce soft-wa-re edu-ca-tion.  
+[On-li-ne]:
+ []
+
+! Text line contains an invalid character.
+l.12 Oyenuga Augustine~Yomi^^@
+                               Akinola Kayode-Emmanuel, Olanrewaju
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.14 ...ademic performance in programming skill^^@
+                                                  ^^@.
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.14 ...mic performance in programming skill^^@^^@
+                                                  .
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 12--16
+[]\OT1/cmr/m/n/12 Oyenuga Au-gus-ti-ne Yo-mi Aki-no-la Kayode-Emmanuel, Olan-re
+-wa-ju Grace-
+ []
+
+! Text line contains an invalid character.
+l.19 ...ring teaching: a “docware” approach^^@
+                                                  .
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.22 N.E. Gibbs^^@
+                  .
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.29   concepts^^@
+                  .
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.32 F.P.~Deek^^@
+                  J.~DeFranco-Tommarello.
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.34   models and groupware technologies^^@
+                                           .
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.38 F.~Pena-Mora^^@
+                     J.~Favela.
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.39 ...borative software engineering education^^@
+                                                  .
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! Package inputenc Error: Unicode char \u8:́ not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 J.~Garcí
+               a-Fanjul^^@ J.~Tuya.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Text line contains an invalid character.
+l.42 J.~García-Fanjul^^@
+                           J.~Tuya.
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.43 ...lysis by means of student collaboration^^@
+                                                  .
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.54   engineering^^@
+                     ^^@.
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.54   engineering^^@^^@
+                        .
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.59   course^^@
+                .
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.62 O’Reilly Media^^@
+                        ^^@.
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.62 O’Reilly Media^^@^^@
+                           .
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.63 \newblock The cathedral and the bazaar^^@
+                                              .
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+[70
+
+
+
+
+
+
+
+
+
+
+]
+! Text line contains an invalid character.
+l.72 ...block Agile methods for cloud computing^^@
+                                                  .
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.76 ...ching professional software engineering^^@
+                                                  .
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.80 ...rd a discipline of software engineering^^@
+                                                  .
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+)
+LaTeX Info: Redefining \. on input line 77.
+LaTeX Info: Redefining \% on input line 77.
+ [71] (./templateICI.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ (./c1_intro.aux) (./c2_marco.aux)
+(./c3_estado_arte.aux) (./c4_prob_solucion.aux) (./c5_analisis.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5886 strings out of 493089
+ 85599 string characters out of 6134842
+ 157006 words of memory out of 5000000
+ 9157 multiletter control sequences out of 15000+600000
+ 9500 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,13n,39p,990b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on templateICI.pdf (80 pages, 4936793 bytes).
+PDF statistics:
+ 426 PDF objects out of 1000 (max. 8388607)
+ 200 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 346 words of extra memory for PDF output out of 10000 (max. 10000000)
+

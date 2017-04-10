@@ -1,0 +1,83 @@
+\select@language {spanish}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Virtualizaci\IeC {\'o}n en tres niveles\relax }}{5}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Sistema manual de control de versiones\relax }}{6}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Esquema simplificado de un sistema de control de versiones centralizado\relax }}{7}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Esquema simplificado de un sistema de control de versiones distribuido\relax }}{8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Abstracci\IeC {\'o}n del plan de estudio de la Universidad\relax }}{10}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Modelo de la situaci\IeC {\'o}n actual\relax }}{13}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Arquitectura de alto nivel de la soluci\IeC {\'o}n\relax }}{14}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Metodolog\IeC {\'\i }a de trabajo\relax }}{15}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Diagrama de casos de uso\relax }}{17}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Diagrama general de la soluci\IeC {\'o}n\relax }}{19}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Nivel F\IeC {\'\i }sico\relax }}{19}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Arquitectura hosted v/s hypervisor\relax }}{20}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Esquema del nivel virtual\relax }}{20}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Diagrama de bloques del proceso\relax }}{21}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Diagrama de flujo de la primera etapa.\relax }}{22}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Diagrama de flujo de la segunda etapa.\relax }}{23}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Diagrama de flujo de la tercera etapa\relax }}{25}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Diagrama de flujo de la cuarta etapa\relax }}{26}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Diagrama de flujo de la quinta etapa.\relax }}{27}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Modelo jer\IeC {\'a}rquico de roles\relax }}{28}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Ejemplo de funcionamiento\relax }}{29}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Ejemplo de funcionamiento\relax }}{31}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Modelo de la soluci\IeC {\'o}n\relax }}{31}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Modelo de red del sistema\relax }}{35}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Login Proxmox VE\relax }}{38}
+\contentsline {figure}{\numberline {9.2}{\ignorespaces Login Proxmox VE\relax }}{38}
+\contentsline {figure}{\numberline {9.3}{\ignorespaces Pantalla de carga de imagenes y plantillas\relax }}{39}
+\contentsline {figure}{\numberline {9.4}{\ignorespaces Pantalla de inicio Gitlab\relax }}{39}
+\contentsline {figure}{\numberline {9.5}{\ignorespaces Creaci\IeC {\'o}n nuevo proyecto\relax }}{39}
+\contentsline {figure}{\numberline {9.6}{\ignorespaces Creaci\IeC {\'o}n nuevo proyecto\relax }}{40}
+\contentsline {figure}{\numberline {9.7}{\ignorespaces Creaci\IeC {\'o}n nuevo proyecto\relax }}{40}
+\contentsline {figure}{\numberline {9.8}{\ignorespaces Creaci\IeC {\'o}n nuevo proyecto\relax }}{41}
+\contentsline {figure}{\numberline {9.9}{\ignorespaces Login Jenkins\relax }}{41}
+\contentsline {figure}{\numberline {9.10}{\ignorespaces Pantalla de inicio Jenkins\relax }}{42}
+\contentsline {figure}{\numberline {9.11}{\ignorespaces Crear/Configurar proyecto\relax }}{42}
+\contentsline {figure}{\numberline {9.12}{\ignorespaces Crear/Configurar proyecto\relax }}{43}
+\contentsline {figure}{\numberline {9.13}{\ignorespaces Construir proyecto\relax }}{43}
+\contentsline {figure}{\numberline {9.14}{\ignorespaces Salida de consola\relax }}{43}
+\contentsline {figure}{\numberline {9.15}{\ignorespaces Flujo general del sistema\relax }}{44}
+\contentsline {figure}{\numberline {9.16}{\ignorespaces Diagrama de navegabilidad de la web GUI de Proxmox\relax }}{44}
+\contentsline {figure}{\numberline {9.17}{\ignorespaces Diagrama de navegabilidad de la web GUI de Gitlab\relax }}{45}
+\contentsline {figure}{\numberline {9.18}{\ignorespaces Diagrama de navegabilidad de la web GUI de Jenkins\relax }}{45}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Diagrama de entrada y salida\relax }}{48}
+\contentsline {figure}{\numberline {10.2}{\ignorespaces Diagrama de entrada y salida\relax }}{49}
+\contentsline {figure}{\numberline {10.3}{\ignorespaces Diagrama de entrada y salida\relax }}{50}
+\contentsline {figure}{\numberline {10.4}{\ignorespaces Diagrama de entrada y salida\relax }}{51}
+\contentsline {figure}{\numberline {10.5}{\ignorespaces Diagrama de entrada y salida\relax }}{53}
+\contentsline {figure}{\numberline {10.6}{\ignorespaces Diagrama de entrada y salida\relax }}{54}
+\contentsline {figure}{\numberline {10.7}{\ignorespaces Diagrama de entrada y salida\relax }}{55}
+\contentsline {figure}{\numberline {10.8}{\ignorespaces Diagrama de entrada y salida\relax }}{55}
+\contentsline {figure}{\numberline {10.9}{\ignorespaces Diagrama de entrada y salida\relax }}{56}
+\contentsline {figure}{\numberline {10.10}{\ignorespaces Detalle del plan de pruebas\relax }}{57}
+\contentsline {figure}{\numberline {10.11}{\ignorespaces Detalle del plan de pruebas\relax }}{57}
+\contentsline {figure}{\numberline {10.12}{\ignorespaces Diagrama de pruebas\relax }}{58}
+\contentsline {figure}{\numberline {10.13}{\ignorespaces Grafico de resultados\relax }}{58}
+\contentsline {figure}{\numberline {10.14}{\ignorespaces Diagrama de pruebas\relax }}{58}
+\contentsline {figure}{\numberline {10.15}{\ignorespaces Grafico de resultados\relax }}{59}
+\contentsline {figure}{\numberline {10.16}{\ignorespaces Diagrama de pruebas\relax }}{59}
+\contentsline {figure}{\numberline {10.17}{\ignorespaces Grafico de resultados\relax }}{59}
+\contentsline {figure}{\numberline {10.18}{\ignorespaces Diagrama de pruebas\relax }}{60}
+\contentsline {figure}{\numberline {10.19}{\ignorespaces Grafico de resultados\relax }}{60}
+\contentsline {figure}{\numberline {10.20}{\ignorespaces Diagrama de pruebas\relax }}{60}
+\contentsline {figure}{\numberline {10.21}{\ignorespaces Grafico de resultados\relax }}{61}
+\contentsline {figure}{\numberline {10.22}{\ignorespaces Diagrama de validaci\IeC {\'o}n\relax }}{61}
+\contentsline {figure}{\numberline {10.23}{\ignorespaces Desempe\IeC {\~n}o del repositorio central\relax }}{62}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Selector de lenguaje\relax }}{66}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Formatear disco duro\relax }}{67}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Configurar red\relax }}{67}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Flujo general del sistema\relax }}{69}

@@ -1,0 +1,158 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{1}
+\contentsline {chapter}{\numberline {2}Marco conceptual}{3}
+\contentsline {section}{\numberline {2.1}Ingenier\IeC {\'\i }a de software}{3}
+\contentsline {section}{\numberline {2.2}M\IeC {\'e}todo \IeC {\'a}gil}{4}
+\contentsline {section}{\numberline {2.3}Nube de computo}{5}
+\contentsline {subsection}{\numberline {2.3.1}Virtualizaci\IeC {\'o}n}{5}
+\contentsline {section}{\numberline {2.4}Control de versiones}{6}
+\contentsline {subsection}{\numberline {2.4.1}Esquemas de almacenamiento}{7}
+\contentsline {subsubsection}{Principales caracter\IeC {\'\i }sticas de los sistemas centralizados}{7}
+\contentsline {subsubsection}{Principales caracter\IeC {\'\i }sticas de los sistemas distribuidos}{8}
+\contentsline {section}{\numberline {2.5}Marco T\IeC {\'e}cnologico}{8}
+\contentsline {chapter}{\numberline {3}Estado del arte}{9}
+\contentsline {section}{\numberline {3.1}Sistemas, t\IeC {\'e}cnicas y/o m\IeC {\'e}todos actuales}{9}
+\contentsline {subsubsection}{An\IeC {\'a}lisis cr\IeC {\'\i }tico}{11}
+\contentsline {chapter}{\numberline {4}Definici\IeC {\'o}n del problema y soluci\IeC {\'o}n propuesta}{12}
+\contentsline {section}{\numberline {4.1}Contexto}{12}
+\contentsline {section}{\numberline {4.2}Soluci\IeC {\'o}n propuesta}{13}
+\contentsline {section}{\numberline {4.3}Naturaleza del cambio}{14}
+\contentsline {section}{\numberline {4.4}Objetivos}{14}
+\contentsline {subsection}{\numberline {4.4.1}Objetivo general}{14}
+\contentsline {subsection}{\numberline {4.4.2}Objetivos espec\IeC {\'\i }ficos}{14}
+\contentsline {section}{\numberline {4.5}Aporte}{15}
+\contentsline {section}{\numberline {4.6}Metodolog\IeC {\'\i }a de investigaci\IeC {\'o}n y desarrollo}{15}
+\contentsline {subsection}{\numberline {4.6.1}Investigaci\IeC {\'o}n}{15}
+\contentsline {subsection}{\numberline {4.6.2}Desarrollo}{15}
+\contentsline {chapter}{\numberline {5}An\IeC {\'a}lisis}{16}
+\contentsline {section}{\numberline {5.1}Especificaci\IeC {\'o}n de requerimientos}{16}
+\contentsline {subsection}{\numberline {5.1.1}Requerimientos funcionales}{16}
+\contentsline {subsection}{\numberline {5.1.2}Requerimientos no funcionales}{16}
+\contentsline {section}{\numberline {5.2}Diagrama de casos de uso (DCU)}{17}
+\contentsline {chapter}{\numberline {6}Dise\IeC {\~n}o}{18}
+\contentsline {section}{\numberline {6.1}Dise\IeC {\~n}o arquitect\IeC {\'o}nico}{18}
+\contentsline {section}{\numberline {6.2}Descomposici\IeC {\'o}n arquitectural}{19}
+\contentsline {subsection}{\numberline {6.2.1}Nivel F\IeC {\'\i }sico}{19}
+\contentsline {subsection}{\numberline {6.2.2}Nivel virtual}{20}
+\contentsline {subsubsection}{Open Virtuozzo (OpenVZ)}{21}
+\contentsline {subsubsection}{Container-Based Virtualization (LXC)}{21}
+\contentsline {section}{\numberline {6.3}Nivel conceptual}{21}
+\contentsline {subsection}{\numberline {6.3.1}Modelo general}{22}
+\contentsline {subsubsection}{Criterio de inicio de esta etapa}{22}
+\contentsline {subsubsection}{Tareas de esta etapa}{22}
+\contentsline {subsubsection}{Criterio para el cierre de esta etapa}{22}
+\contentsline {subsubsection}{Salidas}{22}
+\contentsline {subsubsection}{Diagarama de flujo de trabajo}{22}
+\contentsline {subsection}{\numberline {6.3.2}Lista de caracter\IeC {\'\i }sticas}{23}
+\contentsline {subsubsection}{Criterio para el inicio de esta etapa}{23}
+\contentsline {subsubsection}{Tareas para esta etapa}{23}
+\contentsline {subsubsection}{Roles participantes de esta etapa.}{23}
+\contentsline {subsubsection}{Criterio para el cierre de esta etapa}{23}
+\contentsline {subsubsection}{Salida}{23}
+\contentsline {subsubsection}{Diagarama de flujo de trabajo}{23}
+\contentsline {subsection}{\numberline {6.3.3}Planear por caracter\IeC {\'\i }stica}{24}
+\contentsline {subsubsection}{Criterio para el inicio de esta etapa}{24}
+\contentsline {subsubsection}{Tareas de esta etapa}{24}
+\contentsline {subsubsection}{Roles participantes de esta etapa}{24}
+\contentsline {subsubsection}{Criterio para el cierre de esta etapa}{24}
+\contentsline {subsubsection}{Salida}{24}
+\contentsline {subsubsection}{Diagarama de flujo de trabajo}{25}
+\contentsline {subsection}{\numberline {6.3.4}Dise\IeC {\~n}o por caracter\IeC {\'\i }stica}{25}
+\contentsline {subsubsection}{Criterio para el inicio de esta etapa}{25}
+\contentsline {subsubsection}{Tareas de esta etapa}{25}
+\contentsline {subsubsection}{Roles participantes de esta etapa}{25}
+\contentsline {subsubsection}{Criterio para el fin de esta etapa}{25}
+\contentsline {subsubsection}{Salida}{25}
+\contentsline {subsubsection}{Diagarama de flujo de trabajo}{26}
+\contentsline {subsection}{\numberline {6.3.5}Construcci\IeC {\'o}n de las caracter\IeC {\'\i }sticas}{26}
+\contentsline {subsubsection}{Criterio para el inicio de esta etapa}{26}
+\contentsline {subsubsection}{Tareas de esta etapa}{26}
+\contentsline {subsubsection}{Roles participantes de esta etapa}{26}
+\contentsline {subsubsection}{Criterio para el fin de esta etapa}{27}
+\contentsline {subsubsection}{Diagarama de flujo de trabajo}{27}
+\contentsline {section}{\numberline {6.4}Roles y responsabilidades}{27}
+\contentsline {subsubsection}{Administrador de proyecto (AP)}{27}
+\contentsline {subsubsection}{Arquitecto jefe (AJ)}{27}
+\contentsline {subsubsection}{Administrador de desarrollo (AD)}{27}
+\contentsline {subsubsection}{Programador jefe (PJ)}{27}
+\contentsline {subsubsection}{Administrador de entregas (AE)}{28}
+\contentsline {subsubsection}{Programador (CO)}{28}
+\contentsline {subsubsection}{Experto de dominio(ED)}{28}
+\contentsline {subsubsection}{Diagrama de roles}{28}
+\contentsline {chapter}{\numberline {7}Herramientas}{29}
+\contentsline {subsubsection}{Herramienta para la administraci\IeC {\'o}n de proyectos - Gitlab}{29}
+\contentsline {subsubsection}{Estrategia de bracheo}{29}
+\contentsline {section}{\numberline {7.1}Comunicaci\IeC {\'o}n - Slack}{30}
+\contentsline {subsubsection}{Principales caracter\IeC {\'\i }sticas}{30}
+\contentsline {section}{\numberline {7.2}Repositorio de contenidos - GIT}{30}
+\contentsline {section}{\numberline {7.3}Gesti\IeC {\'o}n del flujo de trabajo - SourceTree}{31}
+\contentsline {section}{\numberline {7.4}Integraci\IeC {\'o}n continua - Jenkins}{31}
+\contentsline {section}{\numberline {7.5}Diagrama final de la soluci\IeC {\'o}n}{31}
+\contentsline {section}{\numberline {7.6}Dise\IeC {\~n}o de pruebas}{32}
+\contentsline {subsection}{\numberline {7.6.1}Pruebas unitarias}{32}
+\contentsline {chapter}{\numberline {8}Implementaci\IeC {\'o}n}{33}
+\contentsline {section}{\numberline {8.1}Hardware de desarrollo}{33}
+\contentsline {subsubsection}{Hardware adicional}{33}
+\contentsline {subsubsection}{Nivel F\IeC {\'\i }sico - Especificaciones del equipo}{33}
+\contentsline {section}{\numberline {8.2}Herramientas para el desarrollo}{34}
+\contentsline {subsection}{\numberline {8.2.1}Nivel virtual - Proxmox Virtual Envirorment}{34}
+\contentsline {subsection}{\numberline {8.2.2}Servidores virtuales - Estructura operacional}{35}
+\contentsline {subsubsection}{Repositorio central}{35}
+\contentsline {subsubsection}{Servidor Java}{35}
+\contentsline {subsubsection}{Servidor PHP}{36}
+\contentsline {subsubsection}{Servidor C}{36}
+\contentsline {subsubsection}{Producci\IeC {\'o}n Java}{36}
+\contentsline {subsubsection}{Producci\IeC {\'o}n PHP}{37}
+\contentsline {subsection}{\numberline {8.2.3}Herramientas del sistema - Versi\IeC {\'o}n}{37}
+\contentsline {chapter}{\numberline {9}Vistas}{38}
+\contentsline {section}{\numberline {9.1}Proxmox Virtual Envirorment}{38}
+\contentsline {section}{\numberline {9.2}Gitlab}{39}
+\contentsline {section}{\numberline {9.3}Jenkins}{41}
+\contentsline {section}{\numberline {9.4}Navegabilidad del sistema}{44}
+\contentsline {subsection}{\numberline {9.4.1}Proxmox}{44}
+\contentsline {subsection}{\numberline {9.4.2}Gitlab}{45}
+\contentsline {subsection}{\numberline {9.4.3}Jenkins}{45}
+\contentsline {chapter}{\numberline {10}Pruebas}{46}
+\contentsline {subsubsection}{Nivel de las pruebas}{46}
+\contentsline {section}{\numberline {10.1}Pruebas de requerimientos}{46}
+\contentsline {section}{\numberline {10.2}Pruebas funcionales}{48}
+\contentsline {subsection}{\numberline {10.2.1}Detalle de las pruebas funcionales}{49}
+\contentsline {subsubsection}{Prueba funcional 01}{49}
+\contentsline {subsubsection}{Prueba funcional 02}{50}
+\contentsline {subsubsection}{Prueba funcional 03}{51}
+\contentsline {subsubsection}{Prueba funcional 04}{53}
+\contentsline {subsubsection}{Prueba Funcional 05}{54}
+\contentsline {subsubsection}{Prueba funcional 06}{55}
+\contentsline {subsubsection}{Prueba funcional 07}{55}
+\contentsline {subsubsection}{Prueba funcional 08}{56}
+\contentsline {subsection}{\numberline {10.2.2}An\IeC {\'a}lisis de resultados}{56}
+\contentsline {section}{\numberline {10.3}Pruebas de sistema}{57}
+\contentsline {subsubsection}{Plan de Pruebas - Repositorio Central}{57}
+\contentsline {subsubsection}{Plan de Pruebas - Servidor I.C}{57}
+\contentsline {subsection}{\numberline {10.3.1}Pruebas de carga}{58}
+\contentsline {subsubsection}{Pruebas de Carga - Jenkins }{58}
+\contentsline {subsubsection}{Prueba de Carga - Gitlab}{58}
+\contentsline {subsubsection}{Prueba de Carga - Gitlab}{59}
+\contentsline {subsection}{\numberline {10.3.2}Pruebas de estr\IeC {\'e}s}{59}
+\contentsline {subsubsection}{Prueba de Estr\IeC {\'e}s - Jenkins}{59}
+\contentsline {subsubsection}{Prueba de Estr\IeC {\'e}s - Gitlab}{60}
+\contentsline {subsection}{\numberline {10.3.3}An\IeC {\'a}lisis de resultados}{61}
+\contentsline {section}{\numberline {10.4}Pruebas de validaci\IeC {\'o}n}{61}
+\contentsline {subsection}{\numberline {10.4.1}An\IeC {\'a}lisis de resultados}{61}
+\contentsline {chapter}{\numberline {11}Implantaci\IeC {\'o}n}{63}
+\contentsline {section}{\numberline {11.1}Caracter\IeC {\'\i }sticas del ambiente}{63}
+\contentsline {section}{\numberline {11.2}Actividades previas a la implantaci\IeC {\'o}n}{63}
+\contentsline {subsubsection}{Contenedores OpenVZ}{64}
+\contentsline {section}{\numberline {11.3}Actividades propias de la implantaci\IeC {\'o}n}{64}
+\contentsline {chapter}{\numberline {12}Conclusi\IeC {\'o}n}{65}
+\contentsline {chapter}{\numberline {A}Manual de implantaci\IeC {\'o}n}{66}
+\contentsline {section}{\numberline {A.1}Instalar Proxmox VE 3.4}{66}
+\contentsline {section}{\numberline {A.2}Instalar JDK Development Evironmet 1.8}{67}
+\contentsline {subsection}{\numberline {A.2.1}Instalar PHP 5.6}{67}
+\contentsline {subsection}{\numberline {A.2.2}Instalar Gitlab 8.10}{68}
+\contentsline {section}{\numberline {A.3}Instalar Jenkins}{68}
+\contentsline {section}{\numberline {A.4}Administrador Proxmox}{68}
+\contentsline {section}{\numberline {A.5}Administrador Jenkins}{68}
+\contentsline {section}{\numberline {A.6}Desarrollador Gitlab}{69}
+\contentsline {section}{\numberline {A.7}Flujo de trabajo}{69}
+\contentsline {chapter}{Bibliograf\'{\i }a}{70}
