@@ -1,0 +1,39 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{1}
+\contentsline {chapter}{\numberline {2}Ejecuci\IeC {\'o}n de las pruebas}{2}
+\contentsline {subsubsection}{M\IeC {\'e}trica de resultado}{2}
+\contentsline {section}{\numberline {2.1}Pruebas funcionales - Agilent Openlab EZChrom }{3}
+\contentsline {subsection}{\numberline {2.1.1}CRUD m\IeC {\'e}todo}{3}
+\contentsline {subsection}{\numberline {2.1.2}CRUD secuencia}{6}
+\contentsline {subsection}{\numberline {2.1.3}Prueba de aceptaci\IeC {\'o}n - Agilent OpenLAB EZChrom}{10}
+\contentsline {subsubsection}{Parametrizar m\IeC {\'e}todo}{10}
+\contentsline {subsubsection}{Ejecutar secuencia}{10}
+\contentsline {subsubsection}{Reprocesar datos}{11}
+\contentsline {subsubsection}{Reporte}{11}
+\contentsline {subsubsection}{Estado de la validaci\IeC {\'o}n: El sistema satisface el requerimiento}{11}
+\contentsline {section}{\numberline {2.2}Pruebas funcionales - GC TotalChrom navigator}{12}
+\contentsline {subsubsection}{Nota}{12}
+\contentsline {subsection}{\numberline {2.2.1}CRUD m\IeC {\'e}todo}{12}
+\contentsline {subsection}{\numberline {2.2.2}CRUD secuencia}{15}
+\contentsline {subsection}{\numberline {2.2.3}Prueba de aceptaci\IeC {\'o}n - GC TotalChrom navigator}{18}
+\contentsline {subsubsection}{Parametrizar m\IeC {\'e}todo}{18}
+\contentsline {subsubsection}{Ejecutar secuencia}{19}
+\contentsline {subsubsection}{Reprocesar datos}{20}
+\contentsline {subsubsection}{Reporte}{21}
+\contentsline {subsubsection}{Estado de la validaci\IeC {\'o}n: El sistema satisface el requerimiento}{21}
+\contentsline {section}{\numberline {2.3}Pruebas funcionales - Bettersize BT - 9300H}{22}
+\contentsline {subsubsection}{Nota}{22}
+\contentsline {subsubsection}{Test 1: Dioxido de titanio STD}{22}
+\contentsline {subsubsection}{Test 2: Diozinon 40WP}{24}
+\contentsline {subsection}{\numberline {2.3.1}Prueba de aceptaci\IeC {\'o}n - Bettersize BT - 9300H}{25}
+\contentsline {subsubsection}{Ingresar datos de estudio}{25}
+\contentsline {subsubsection}{Procesar datos de estudio}{26}
+\contentsline {subsubsection}{Resultados}{26}
+\contentsline {subsubsection}{Estado de la validaci\IeC {\'o}n: El sistema satisface el requerimiento}{26}
+\contentsline {chapter}{\numberline {A}Calificaci\IeC {\'o}n de Dise\IeC {\~n}o e Instalaci\IeC {\'o}n}{27}
+\contentsline {subsubsection}{Aspectos inspeccionados}{27}
+\contentsline {subsubsection}{Estado: Validado}{27}
+\contentsline {chapter}{\numberline {B}Evaluaci\IeC {\'o}n OQ}{28}
+\contentsline {subsubsection}{Pruebas Funcionales}{28}
+\contentsline {subsubsection}{Pruebas de aceptaci\IeC {\'o}n}{28}
+\contentsline {subsubsection}{Estado: Validado}{28}

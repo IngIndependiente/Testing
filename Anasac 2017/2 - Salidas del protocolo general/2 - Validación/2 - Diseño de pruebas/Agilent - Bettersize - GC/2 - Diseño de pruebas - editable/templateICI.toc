@@ -1,0 +1,31 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{1}
+\contentsline {chapter}{\numberline {2}Nivel especifico de pruebas - Agilent OpenLAB}{2}
+\contentsline {section}{\numberline {2.1}Nivel de pruebas - Funcionales}{2}
+\contentsline {subsection}{\numberline {2.1.1}Pruebas CRUD m\IeC {\'e}todo}{3}
+\contentsline {subsubsection}{Crear m\IeC {\'e}todo}{3}
+\contentsline {subsubsection}{Leer m\IeC {\'e}todo}{3}
+\contentsline {subsubsection}{Editar m\IeC {\'e}todo}{4}
+\contentsline {subsubsection}{Eliminar m\IeC {\'e}todo}{4}
+\contentsline {subsection}{\numberline {2.1.2}Pruebas CRUD secuencia}{5}
+\contentsline {subsubsection}{Crear secuencia}{5}
+\contentsline {subsubsection}{Leer secuencia}{5}
+\contentsline {subsubsection}{Editar secuencia}{6}
+\contentsline {subsubsection}{Eliminar secuencia}{6}
+\contentsline {subsubsection}{Reprocesar secuencia}{7}
+\contentsline {chapter}{\numberline {3}Nivel especifico de pruebas - TotalChrom}{8}
+\contentsline {section}{\numberline {3.1}Nivel de pruebas - Funcionales}{8}
+\contentsline {subsection}{\numberline {3.1.1}Pruebas CRUD m\IeC {\'e}todo}{8}
+\contentsline {subsubsection}{Crear m\IeC {\'e}todo}{8}
+\contentsline {subsubsection}{Leer m\IeC {\'e}todo}{9}
+\contentsline {subsubsection}{Editar m\IeC {\'e}todo}{9}
+\contentsline {subsubsection}{Eliminar m\IeC {\'e}todo}{10}
+\contentsline {subsection}{\numberline {3.1.2}Pruebas CRUD secuencia}{10}
+\contentsline {subsubsection}{Crear secuencia}{10}
+\contentsline {subsubsection}{Leer secuencia}{11}
+\contentsline {subsubsection}{Editar secuencia}{11}
+\contentsline {subsubsection}{Eliminar secuencia}{12}
+\contentsline {subsubsection}{Reprocesar secuencia}{12}
+\contentsline {chapter}{\numberline {4}Nivel especifico de pruebas - Bettersize}{13}
+\contentsline {section}{\numberline {4.1}Nivel de pruebas - Funcionales}{13}
+\contentsline {subsubsection}{Test document}{13}

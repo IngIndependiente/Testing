@@ -1,0 +1,38 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{1}
+\contentsline {chapter}{\numberline {2}Objetivos}{2}
+\contentsline {section}{\numberline {2.1}Objetivo general}{2}
+\contentsline {subsection}{\numberline {2.1.1}Objetivos especificos}{2}
+\contentsline {section}{\numberline {2.2}Actividades previas}{3}
+\contentsline {section}{\numberline {2.3}Proceso principal}{3}
+\contentsline {chapter}{\numberline {3}Protocolo de riesgo}{4}
+\contentsline {subsubsection}{Aspectos claves del dise\IeC {\~n}o}{4}
+\contentsline {subsubsection}{Roles y responsabilidades}{4}
+\contentsline {subsubsection}{Control del cambio y configuraci\IeC {\'o}n}{5}
+\contentsline {subsubsection}{Entradas del proceso}{6}
+\contentsline {subsubsection}{Las actividades correspondientes a este nivel son}{6}
+\contentsline {subsubsection}{Salida}{6}
+\contentsline {chapter}{\numberline {4}Protocolo de validaci\IeC {\'o}n}{7}
+\contentsline {subsubsection}{Los procesos deben ser realizados en estricto orden secuencial}{7}
+\contentsline {section}{\numberline {4.1}Plan de pruebas y control}{7}
+\contentsline {subsubsection}{Las actividades correspondientes a este nivel son:}{7}
+\contentsline {subsubsection}{Salida}{8}
+\contentsline {section}{\numberline {4.2}An\IeC {\'a}lisis y dise\IeC {\~n}o de pruebas}{8}
+\contentsline {subsubsection}{Entradas de este proceso:}{9}
+\contentsline {subsubsection}{Las actividades correspondientes a este nivel son:}{9}
+\contentsline {subsubsection}{Salida:}{9}
+\contentsline {subsection}{\numberline {4.2.1}Dise\IeC {\~n}o de las pruebas}{9}
+\contentsline {subsubsection}{Pruebas funcionales}{9}
+\contentsline {subsubsection}{M\IeC {\'e}trica de resultado}{10}
+\contentsline {section}{\numberline {4.3}Ejecuci\IeC {\'o}n de las pruebas}{10}
+\contentsline {subsubsection}{Entradas de este proceso:}{10}
+\contentsline {subsubsection}{Las actividades correspondientes a este nivel son:}{11}
+\contentsline {subsubsection}{Salida:}{11}
+\contentsline {chapter}{\numberline {5}Protocolo general de calificaci\IeC {\'o}n}{12}
+\contentsline {subsubsection}{Entradas de este proceso:}{12}
+\contentsline {subsubsection}{Las actividades correspondientes a la calificaci\IeC {\'o}n son:}{12}
+\contentsline {subsubsection}{Salida:}{13}
+\contentsline {chapter}{\numberline {6}Evaluaci\IeC {\'o}n del criterio de salida y reporte}{14}
+\contentsline {subsubsection}{Entradas de este proceso:}{14}
+\contentsline {subsubsection}{Las actividades correspondientes a este nivel son:}{14}
+\contentsline {subsubsection}{Salida:}{14}
